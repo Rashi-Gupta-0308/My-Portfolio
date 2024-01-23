@@ -1,8 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { useRef } from 'react';
 import emailjs from '@emailjs/browser';
-import { Snackbar } from '@mui/material';
 
 const Container = styled.div`
 display: flex;
@@ -123,44 +121,23 @@ const ContactButton = styled.input`
 
 
 const Contact = () => {
-
-  //hooks
-  const [open, setOpen] = React.useState(false);
-  const form = useRef();
-
-  const handleSubmit = (e) => {
-    e.preventDefault();
-    emailjs.sendForm('service_tyih4lk', 'template_vltu3xh', form.current, 'qILajEl4xD6DXFLLV')
-      .then((result) => {
-        setOpen(true);
-        form.current.reset();
-      }, (error) => {
-        console.log(error.text);
-      });
-  }
-
-
-
   return (
     <Container id="contact">
       <Wrapper>
         <Title>Contact</Title>
         <Desc>Feel free to reach out to me for opportunities!</Desc>
-        <ContactForm ref={form} onSubmit={handleSubmit}>
+        <ContactForm action="https://formspree.io/f/mnqejjwq" method="POST">
           <ContactTitle>Email Me 🚀</ContactTitle>
-          <ContactInput placeholder="Your Email" name="to_name" />
-          <ContactInput placeholder="Your Name" name="from_name" />
-          <ContactInput placeholder="Subject" name="subject" />
-          <ContactInputMessage placeholder="Message" rows="4" name="message" />
+          <ContactInput placeholder="Your Email" name="UserEmail" autoComplete="off"
+              required />
+          <ContactInput placeholder="Your Name" name="UserName" autoComplete="off"
+              required/>
+          <ContactInput placeholder="Subject" name="subject" autoComplete="off"
+              required />
+          <ContactInputMessage placeholder="Message" rows="4" name="message" autoComplete="off"
+              required/>
           <ContactButton type="submit" value="Send" />
         </ContactForm>
-        <Snackbar
-          open={open}
-          autoHideDuration={6000}
-          onClose={()=>setOpen(false)}
-          message="Email sent successfully!"
-          severity="success"
-        />
       </Wrapper>
     </Container>
   )
