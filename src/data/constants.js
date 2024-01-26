@@ -2,9 +2,9 @@ export const Bio = {
   name: "Rashi Gupta",
   roles: [
     "Full Stack Developer",
+    "DSA Enthusiast",
     "UI/UX Designer",
     "MERN Stack Developer",
-    "Programmer",
   ],
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
@@ -207,6 +207,17 @@ export const projects = [
     webapp: "https://rashi-pizza-app.vercel.app/",
   },
   {
+    id: 20,
+    title: "Coffee Shop",
+    description:
+      "This project is the landing page of coffee shop. It is designed by figma.",
+    image:
+      "https://media.licdn.com/dms/image/D4D22AQFPfsfR3xDC4w/feedshare-shrink_800/0/1706263605266?e=1709164800&v=beta&t=wPyzwOnGyjGZDQIo3u-7tdc29thlOO61teWB-PaCwbE",
+    tags: ["Figma",],
+    github: "https://www.figma.com/file/2HdzCcEfcyxxrZ4QtnFVei/coffee-shop?type=design&node-id=0%3A1&mode=design&t=VV8kG72cRLylWV3J-1",
+    webapp: "https://media.licdn.com/dms/image/D4D22AQFPfsfR3xDC4w/feedshare-shrink_800/0/1706263605266?e=1709164800&v=beta&t=wPyzwOnGyjGZDQIo3u-7tdc29thlOO61teWB-PaCwbE",
+  },
+  {
     id: 2,
     title: "Amazon Clone",
     description:
@@ -271,6 +282,17 @@ export const projects = [
       tags: ["HTML", "CSS", "JavaScript",],
     github: "https://github.com/Rashi-Gupta-0308/bg-color-switcher",
     webapp: "https://rashi-gupta-0308.github.io/bg-color-switcher/",
+  },
+  {
+    id: 60,
+    title: "Counter React App",
+    description:
+      "Counter React App Project increments and decrements the value. This project guarantees that tha value shouls not go below 0.",
+    image:
+      "https://media.geeksforgeeks.org/wp-content/uploads/20230327131629/ezgif-4-23d86a1ba7.gif",
+      tags: ["HTML", "CSS", "React",],
+    github: "hhttps://github.com/Rashi-Gupta-0308/counter-react-app",
+    webapp: "https://counter-react-app-self.vercel.app/",
   },
   
 ];
