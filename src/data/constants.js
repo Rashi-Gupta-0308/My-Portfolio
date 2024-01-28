@@ -133,7 +133,7 @@ export const education = [
   {
     id: 0,
     img: "https://upload.wikimedia.org/wikipedia/en/d/d6/Madhav_Institute_of_Technology_and_Science_logo.png",
-    school: "Madhav Institute of technology & Science, Gwalior",
+    school: "Madhav Institute of Technology & Science, Gwalior",
     date: "Nov 2022 - Jun 2026",
     grade: "9.05 SGPA",
     desc: "I am currently pursuing a Bachelor's degree in Internet of Things at Madhav Institute of technology & Science, Gwalior. I have studied Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
