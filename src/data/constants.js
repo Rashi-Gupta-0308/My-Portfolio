@@ -10,7 +10,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Rashi-Gupta-0308",
   resume:
-    "https://drive.google.com/file/d/1-26wmei02eLlMuvL_8gdefkzWudLN0Yy/view?usp=sharing",
+    "https://drive.google.com/file/d/1T3b_1JWp13VNncDkOJyKyjhH0IQXXzTt/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/rashi-gupta-profile/",
   twitter: "https://twitter.com/rashi_gupta_18",
   insta: "https://www.instagram.com/_rashiiii17/",
@@ -115,6 +115,11 @@ export const skills = [
         name: "VS Code",
         image:
           "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519",
+      },
+      {
+        name: "Canva",
+        image:
+          "https://freelogopng.com/images/all_img/1656733637logo-canva-png.png",
       },
       {
         name: "Figma",
