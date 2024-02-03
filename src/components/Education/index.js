@@ -94,7 +94,8 @@ const index = () => {
                                 </TimelineContent>
                                 <TimelineSeparator>
                                     <TimelineDot variant="outlined" color="secondary" />
-                                    {index !== experiences.length  && <TimelineConnector style={{ background: '#854CE6' }} />}
+                                    {/* {index !== experiences.length  &&  */}
+                                    <TimelineConnector style={{ background: '#854CE6' }} />
                                 </TimelineSeparator>
                             </TimelineItem>
                         ))}

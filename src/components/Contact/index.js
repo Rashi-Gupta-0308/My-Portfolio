@@ -127,14 +127,10 @@ const Contact = () => {
         <Desc>Feel free to reach out to me for opportunities!</Desc>
         <ContactForm action="https://formspree.io/f/mnqejjwq" method="POST">
           <ContactTitle>Email Me 🚀</ContactTitle>
-          <ContactInput placeholder="Your Email" name="UserEmail" autoComplete="off"
-              required />
-          <ContactInput placeholder="Your Name" name="UserName" autoComplete="off"
-              required/>
-          <ContactInput placeholder="Subject" name="subject" autoComplete="off"
-              required />
-          <ContactInputMessage placeholder="Message" rows="4" name="message" autoComplete="off"
-              required/>
+          <ContactInput placeholder="Your Email" name="UserEmail" autoComplete="off" required />
+          <ContactInput placeholder="Your Name" name="UserName" autoComplete="off" required/>
+          <ContactInput placeholder="Subject" name="subject" autoComplete="off" required />
+          <ContactInputMessage placeholder="Message" rows="4" name="message" autoComplete="off" required/>
           <ContactButton type="submit" value="Send" />
         </ContactForm>
       </Wrapper>
