@@ -98,6 +98,11 @@ export const skills = [
           "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
       },
       {
+        name: "PHP",
+        image:
+          "https://w7.pngwing.com/pngs/751/3/png-transparent-logo-php-html-others-text-trademark-logo-thumbnail.png",
+      },
+      {
         name: "JavaScript",
         image:
           "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
@@ -126,6 +131,16 @@ export const skills = [
         name: "Canva",
         image:
           "https://freelogopng.com/images/all_img/1656733637logo-canva-png.png",
+      },
+      {
+        name: "Adobe XD",
+        image:
+          "https://www.svgrepo.com/show/305664/adobe-xd.svg",
+      },
+      {
+        name: "WireFraming",
+        image:
+          "https://c8.alamy.com/compfr/pea153/l-icone-de-creation-de-fer-element-simple-illustration-concept-de-design-wireframe-symbole-developpement-web-collection-peut-etre-utilise-pour-le-mobile-et-web-pea153.jpg",
       },
       {
         name: "Figma",
@@ -234,7 +249,7 @@ export const projects = [
     description:
       "This project is the clone of Amazon Website. This was my first frontend project.",
     image:
-      "https://media.licdn.com/dms/image/D5622AQGgotEJnh-cjw/feedshare-shrink_800/0/1703319598021?e=1708560000&v=beta&t=AB6S06dmRa2_Dv1ynLKEMZBoZVQ5lieoxSDHpmKIwDo",
+      "https://media.licdn.com/dms/image/D5622AQGgotEJnh-cjw/feedshare-shrink_1280/0/1703319598021?e=1711584000&v=beta&t=lbo7UdYcc7tyJs729qXztCsaFeLmfUZI52RIjqlQ95Q",
     tags: ["HTML", "CSS",],
     github: "https://github.com/Rashi-Gupta-0308/Amazon_Clone",
     webapp: "https://rashi-gupta-0308.github.io/Amazon_Clone/",
