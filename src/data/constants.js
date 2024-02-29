@@ -284,7 +284,7 @@ export const projects = [
     description:
       "This project is the landing page of coffee shop. It is designed by figma.",
     image:
-      "https://media.licdn.com/dms/image/D4D22AQFPfsfR3xDC4w/feedshare-shrink_800/0/1706263605266?e=1709164800&v=beta&t=wPyzwOnGyjGZDQIo3u-7tdc29thlOO61teWB-PaCwbE",
+      "https://media.licdn.com/dms/image/D4D22AQFPfsfR3xDC4w/feedshare-shrink_800/0/1706263605266?e=1712188800&v=beta&t=94nsxjBfJqR1f_ujj6xUnDn6v-OxWcivbkUqOT-7eaw",
     tags: ["Figma",],
     github: "https://www.figma.com/file/2HdzCcEfcyxxrZ4QtnFVei/coffee-shop?type=design&node-id=0%3A1&mode=design&t=VV8kG72cRLylWV3J-1",
     webapp: "https://media.licdn.com/dms/image/D4D22AQFPfsfR3xDC4w/feedshare-shrink_800/0/1706263605266?e=1709164800&v=beta&t=wPyzwOnGyjGZDQIo3u-7tdc29thlOO61teWB-PaCwbE",
