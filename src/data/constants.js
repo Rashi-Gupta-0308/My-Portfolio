@@ -218,6 +218,22 @@ export const education = [
 export const projects = [
   {
     id: 9,
+    title: "Personal Portfolio",
+    description:
+      "This is my Personal Portfolio Website. It is a mobile responsive website with the power of React.js and the finesse of CSS.",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZJmfyitSCW6eLObed2XEt1cImpccn-vJBD-PWuwhmKmdpuDq6FDUT0rbXlv4sRaRtGBc&usqp=CAU",
+    tags: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React Js",
+    ],
+    github: "https://github.com/Rashi-Gupta-0308/My-Portfolio",
+    webapp: "https://my-portfolio-pi-teal-90.vercel.app",
+  },
+  {
+    id: 9,
     title: "TravelApp",
     description:
       "TravelApp is a Travelling Website. It is a mobile responsive website with the power of React.js and the finesse of Tailwind CSS. The sleek frontend design ensures a seamless user experience, and the vibrant interface invites you to explore destinations like never before.",
@@ -268,7 +284,7 @@ export const projects = [
     description:
       "This project is the landing page of coffee shop. It is designed by figma.",
     image:
-      "https://media.licdn.com/dms/image/D4D22AQFPfsfR3xDC4w/feedshare-shrink_800/0/1706263605266?e=1712188800&v=beta&t=94nsxjBfJqR1f_ujj6xUnDn6v-OxWcivbkUqOT-7eaw",
+      "https://s3-alpha.figma.com/hub/file/3483278964/692a9742-c3a8-4d65-8c9d-de62218ddbdf-cover.png",
     tags: ["Figma",],
     github: "https://www.figma.com/file/2HdzCcEfcyxxrZ4QtnFVei/coffee-shop?type=design&node-id=0%3A1&mode=design&t=VV8kG72cRLylWV3J-1",
     webapp: "https://media.licdn.com/dms/image/D4D22AQFPfsfR3xDC4w/feedshare-shrink_800/0/1706263605266?e=1709164800&v=beta&t=wPyzwOnGyjGZDQIo3u-7tdc29thlOO61teWB-PaCwbE",
@@ -290,7 +306,7 @@ export const projects = [
     description:
       "This project is the clone of Amazon Website. This was my first frontend project.",
     image:
-      "https://www.google.com/url?sa=i&url=https%3A%2F%2Fmultichannelmerchant.com%2Fecommerce%2Famazon-launches-new-ecommerce-site-middle-east%2F&psig=AOvVaw16XthebOjgqI4mQadrFfpc&ust=1712660977098000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKjhtLS9soUDFQAAAAAdAAAAABAE",
+      "https://sangvish.com/file/2021/10/Buy2Market-amazon-clone-script.png",
     tags: ["HTML", "CSS",],
     github: "https://github.com/Rashi-Gupta-0308/Amazon_Clone",
     webapp: "https://rashi-gupta-0308.github.io/Amazon_Clone/",
@@ -301,7 +317,7 @@ export const projects = [
     description:
       "This project is the food menu website. It is designed by Express Js.",
     image:
-      "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcodemyui.com%2Flogin-modal-with-floating-placeholder-and-animated-neon-submit-button%2F&psig=AOvVaw1_JQZnQsVav8XcrZCirnxt&ust=1712660668642000&source=images&cd=vfe&opi=89978449&ved=0CBIQjhxqFwoTCKjxvqS8soUDFQAAAAAdAAAAABAE",
+      "https://i.ytimg.com/vi/rPQsixhosSc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBOp3xKqaZ-hArOap0dpsLv5xgLjw",
     tags: ["HTML", "CSS","JavaScript","Express Js",],
     github: "https://github.com/Rashi-Gupta-0308/Food-Delivering-Website---Rashi-Gupta",
     webapp: "https://drive.google.com/file/d/1beeiqsIUqoIOUgIGL3L80O-1nH_tXYFl/view?usp=sharing",
