@@ -309,7 +309,7 @@ export const projects = [
       "https://sangvish.com/file/2021/10/Buy2Market-amazon-clone-script.png",
     tags: ["HTML", "CSS",],
     github: "https://github.com/Rashi-Gupta-0308/Amazon_Clone",
-    webapp: "https://amazon-clone-green-one.vercel.app/",
+    webapp: "https://amazon-clone-green-one.vercel.app",
   },
   {
     id: 22,
