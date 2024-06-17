@@ -217,7 +217,7 @@ export const education = [
 
 export const projects = [
   {
-    id: 9,
+    id: 1,
     title: "Personal Portfolio",
     description:
       "This is my Personal Portfolio Website. It is a mobile responsive website with the power of React.js and the finesse of CSS.",
@@ -233,7 +233,7 @@ export const projects = [
     webapp: "https://my-portfolio-pi-teal-90.vercel.app",
   },
   {
-    id: 9,
+    id: 2,
     title: "TravelApp",
     description:
       "TravelApp is a Travelling Website. It is a mobile responsive website with the power of React.js and the finesse of Tailwind CSS. The sleek frontend design ensures a seamless user experience, and the vibrant interface invites you to explore destinations like never before.",
@@ -248,7 +248,7 @@ export const projects = [
     webapp: "https://travel-app-dusky-chi.vercel.app/",
   },
   {
-    id: 0,
+    id: 3,
     title: "RashiBite",
     description:
       "RashiBite is a Restaurant Website. This responsive project leveraging my skills in React.js, I've implemented features that go beyond the user-friendly navigation, and a smooth, responsive layout that adapts effortlessly to different screen sizes.",
@@ -263,7 +263,7 @@ export const projects = [
     webapp: "https://rashi-bite-restaurant.vercel.app/",
   },
   {
-    id: 1,
+    id: 4,
     title: "Pizza App",
     description: "PizzaApp is a Pizza Selling Website. It is a frontend website with the power of React.js and the finesse of Tailwind CSS.",
     image:
@@ -279,7 +279,21 @@ export const projects = [
     webapp: "https://rashi-pizza-app.vercel.app/",
   },
   {
-    id: 20,
+    id: 5,
+    title: "Todo List",
+    description: "It is a Todo List created with the power of React.js and the finesse of Tailwind CSS.",
+    image:
+      "https://foolishdeveloper.com/wp-content/uploads/2021/11/todo-list-javascript.jpg",
+    tags: [
+      "HTML",
+      "React Js",
+      "Tailwind CSS",
+    ],
+    github: "https://github.com/Rashi-Gupta-0308/react_todo_list",
+    webapp: "https://react-todo-list-six-lilac.vercel.app/",
+  },
+  {
+    id: 6,
     title: "Coffee Shop",
     description:
       "This project is the landing page of coffee shop. It is designed by figma.",
@@ -290,7 +304,7 @@ export const projects = [
     webapp: "https://media.licdn.com/dms/image/D4D22AQFPfsfR3xDC4w/feedshare-shrink_800/0/1706263605266?e=1709164800&v=beta&t=wPyzwOnGyjGZDQIo3u-7tdc29thlOO61teWB-PaCwbE",
   },
   {
-    id: 21,
+    id: 7,
     title: "Food Menu Items UI",
     description:
       "This project is the food menu website. It is designed by figma.",
@@ -301,7 +315,7 @@ export const projects = [
     webapp: "https://www.figma.com/proto/L5jmR1ZSaYNQSPirxV43zf/Restaurant-Website?type=design&node-id=106-91&t=RZCVGOaVgQ9dBDFc-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2&show-proto-sidebar=1&mode=design",
   },
   {
-    id: 2,
+    id: 8,
     title: "Amazon Clone",
     description:
       "This project is the clone of Amazon Website. This was my first frontend project.",
@@ -312,7 +326,7 @@ export const projects = [
     webapp: "https://amazon-clone-green-one.vercel.app",
   },
   {
-    id: 22,
+    id: 9,
     title: "Food Menu Express App",
     description:
       "This project is the food menu website. It is designed by Express Js.",
@@ -323,7 +337,7 @@ export const projects = [
     webapp: "https://drive.google.com/file/d/1beeiqsIUqoIOUgIGL3L80O-1nH_tXYFl/view?usp=sharing",
   },
   {
-    id: 3,
+    id: 10,
     title: "Naukri.com Clone",
     description:
       "This project is the clone of naukri.com Website. It gives me learnings of the use of JSON. ",
@@ -334,7 +348,7 @@ export const projects = [
     webapp: "https://rashi-gupta-0308.github.io/naukri_clone/",
   },
   {
-    id: 10,
+    id: 11,
     title: "Tic Tac Toe Game",
     description:
       "This Tic Tac Toe Game project allowed me to explore new aspects of front-end coding, emphasizing seamless user interaction and interface functionality.",
@@ -345,7 +359,7 @@ export const projects = [
     webapp: "https://rashi-gupta-0308.github.io/Tic-Tac-Toe-Game/",
   },
   {
-    id: 4,
+    id: 12,
     title: "Simple Calculator",
     description:
       "Whether this project has simple addition or complex operations, this calculator demonstrates my commitment to crafting intuitive and practical digital solutions while showcasing my proficiency in front-end technologies.",
@@ -356,7 +370,7 @@ export const projects = [
     webapp: "https://rashi-gupta-0308.github.io/Functional_Calculator/",
   },
   {
-    id: 5,
+    id: 13,
     title: "BMI Calculator",
     description:
       " It calculates your BMI (Body Mass Index). This project allowed me to delve deeper into user input validation and mathematical calculations while honing my frontend design skills. It's incredible how these small projects contribute significantly to skill enhancement. ",
@@ -367,7 +381,7 @@ export const projects = [
     webapp: "https://rashi-gupta-0308.github.io/bmi-calculator/",
   },
   {
-    id: 6,
+    id: 14,
     title: "Background Color Switcher",
     description:
       "Background Color Switcher Project changes color of background. While it may seem small, its significance lies in the practice it offered.",
@@ -378,7 +392,7 @@ export const projects = [
     webapp: "https://rashi-gupta-0308.github.io/bg-color-switcher/",
   },
   {
-    id: 60,
+    id: 15,
     title: "Counter React App",
     description:
       "Counter React App Project increments and decrements the value. This project guarantees that tha value shouls not go below 0.",
