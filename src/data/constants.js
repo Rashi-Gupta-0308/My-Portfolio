@@ -216,22 +216,7 @@ export const education = [
 ];
 
 export const projects = [
-  {
-    id: 1,
-    title: "Personal Portfolio",
-    description:
-      "This is my Personal Portfolio Website. It is a mobile responsive website with the power of React.js and the finesse of CSS.",
-    image:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZJmfyitSCW6eLObed2XEt1cImpccn-vJBD-PWuwhmKmdpuDq6FDUT0rbXlv4sRaRtGBc&usqp=CAU",
-    tags: [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "React Js",
-    ],
-    github: "https://github.com/Rashi-Gupta-0308/My-Portfolio",
-    webapp: "https://my-portfolio-pi-teal-90.vercel.app",
-  },
+  
   {
     id: 2,
     title: "TravelApp",
@@ -318,12 +303,25 @@ export const projects = [
     id: 8,
     title: "Amazon Clone",
     description:
-      "This project is the clone of Amazon Website. This was my first frontend project.",
+      "This project is the UI clone of Amazon Website. This was my first frontend project.",
     image:
       "https://sangvish.com/file/2021/10/Buy2Market-amazon-clone-script.png",
     tags: ["HTML", "CSS",],
     github: "https://github.com/Rashi-Gupta-0308/Amazon_Clone",
     webapp: "https://amazon-clone-green-one.vercel.app",
+  },
+  {
+    id: 1,
+    title: "Flipkart Clone",
+    description:
+      "This project is the UI clone of FlipKart Website using Figma.",
+    image:
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-8bKa-mMrAM7VPHbe_RaO0knjULz_PmM3CYifJ_dIqjFIBXwHau4aIcg9bzjAB_RFfsnzMMAoQbdNWD02eVPzg1aoom3KnyTwHr83ittt5Hxp7rT28l3YjHyuZDu82m8Rky7SbQz5R9U/s1600/flipkart.JPG",
+    tags: [
+      "Figma",
+    ],
+    github: "https://www.figma.com/design/mNte5PjmaNevKCSYGY30c9/Flipkart-Clone?node-id=0-1&t=PIaAwRJgW0Jz95OU-0",
+    webapp: "https://www.figma.com/proto/mNte5PjmaNevKCSYGY30c9/Flipkart-Clone?node-id=1-2&t=t8cEzxWHwv9QNKsd-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&hide-ui=1",
   },
   {
     id: 9,
