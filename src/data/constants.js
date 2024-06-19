@@ -229,6 +229,7 @@ export const projects = [
       "React Js",
       "Tailwind CSS",
     ],
+    category: "Frontend projects",
     github: "https://github.com/Rashi-Gupta-0308/Travel-App",
     webapp: "https://travel-app-dusky-chi.vercel.app/",
   },
@@ -244,6 +245,7 @@ export const projects = [
         "React Js",
         "Tailwind CSS",
       ], 
+      category: "Frontend projects",
     github: "https://github.com/Rashi-Gupta-0308/rashi-bite-restaurant",
     webapp: "https://rashi-bite-restaurant.vercel.app/",
   },
@@ -260,6 +262,7 @@ export const projects = [
       "Express Js",
       "Tailwind CSS",
     ],
+    category: "Frontend projects",
     github: "https://github.com/Rashi-Gupta-0308/rashi-pizza-app",
     webapp: "https://rashi-pizza-app.vercel.app/",
   },
@@ -274,6 +277,7 @@ export const projects = [
       "React Js",
       "Tailwind CSS",
     ],
+    category: "Mini Projects",
     github: "https://github.com/Rashi-Gupta-0308/react_todo_list",
     webapp: "https://react-todo-list-six-lilac.vercel.app/",
   },
@@ -285,6 +289,7 @@ export const projects = [
     image:
       "https://s3-alpha.figma.com/hub/file/3483278964/692a9742-c3a8-4d65-8c9d-de62218ddbdf-cover.png",
     tags: ["Figma",],
+    category: "UI/UX Design",
     github: "https://www.figma.com/file/2HdzCcEfcyxxrZ4QtnFVei/coffee-shop?type=design&node-id=0%3A1&mode=design&t=VV8kG72cRLylWV3J-1",
     webapp: "https://media.licdn.com/dms/image/D4D22AQFPfsfR3xDC4w/feedshare-shrink_800/0/1706263605266?e=1709164800&v=beta&t=wPyzwOnGyjGZDQIo3u-7tdc29thlOO61teWB-PaCwbE",
   },
@@ -296,6 +301,7 @@ export const projects = [
     image:
       "https://justfigma.com/wp-content/uploads/2022/07/design-food-menu-with-figma.png.webp",
     tags: ["Figma",],
+    category: "UI/UX Design",
     github: "https://www.figma.com/file/L5jmR1ZSaYNQSPirxV43zf/Restaurant-Website?type=design&node-id=0%3A1&mode=design&t=YLJ3yXofyvrqm4qF-1",
     webapp: "https://www.figma.com/proto/L5jmR1ZSaYNQSPirxV43zf/Restaurant-Website?type=design&node-id=106-91&t=RZCVGOaVgQ9dBDFc-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2&show-proto-sidebar=1&mode=design",
   },
@@ -307,6 +313,7 @@ export const projects = [
     image:
       "https://sangvish.com/file/2021/10/Buy2Market-amazon-clone-script.png",
     tags: ["HTML", "CSS",],
+    category: "Frontend projects",
     github: "https://github.com/Rashi-Gupta-0308/Amazon_Clone",
     webapp: "https://amazon-clone-green-one.vercel.app",
   },
@@ -320,6 +327,7 @@ export const projects = [
     tags: [
       "Figma",
     ],
+    category: "UI/UX Design",
     github: "https://www.figma.com/design/mNte5PjmaNevKCSYGY30c9/Flipkart-Clone?node-id=0-1&t=PIaAwRJgW0Jz95OU-0",
     webapp: "https://www.figma.com/proto/mNte5PjmaNevKCSYGY30c9/Flipkart-Clone?node-id=1-2&t=t8cEzxWHwv9QNKsd-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&hide-ui=1",
   },
@@ -331,6 +339,7 @@ export const projects = [
     image:
       "https://i.ytimg.com/vi/rPQsixhosSc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBOp3xKqaZ-hArOap0dpsLv5xgLjw",
     tags: ["HTML", "CSS","JavaScript","Express Js",],
+    category: "Frontend projects",
     github: "https://github.com/Rashi-Gupta-0308/Food-Delivering-Website---Rashi-Gupta",
     webapp: "https://drive.google.com/file/d/1beeiqsIUqoIOUgIGL3L80O-1nH_tXYFl/view?usp=sharing",
   },
@@ -342,6 +351,7 @@ export const projects = [
     image:
       "https://images.livemint.com/rf/Image-621x414/LiveMint/Period2/2017/05/30/Photos/Processed/naukri-ksBG--621x414@LiveMint.jpg",
       tags: ["HTML", "CSS", "JavaScript",],  
+      category: "Frontend projects",
     github: "https://github.com/Rashi-Gupta-0308/naukri_clone",
     webapp: "https://rashi-gupta-0308.github.io/naukri_clone/",
   },
@@ -353,6 +363,7 @@ export const projects = [
     image:
       "https://www.coolmathgames.com/sites/default/files/TicTacToe_OG-logo.jpg",
       tags: ["HTML", "CSS", "JavaScript",],
+      category: "Mini Projects",
     github: "https://github.com/Rashi-Gupta-0308/Tic-Tac-Toe-Game",
     webapp: "https://rashi-gupta-0308.github.io/Tic-Tac-Toe-Game/",
   },
@@ -364,6 +375,7 @@ export const projects = [
     image:
       "https://miro.medium.com/v2/resize:fit:477/1*XTYPkj7yJDDGuzq4fP5kDA.png",
       tags: ["HTML", "CSS", "JavaScript",],
+      category: "Mini Projects",
       github: "https://github.com/Rashi-Gupta-0308/Functional_Calculator",
     webapp: "https://rashi-gupta-0308.github.io/Functional_Calculator/",
   },
@@ -375,6 +387,7 @@ export const projects = [
     image:
       "https://codingprojects.online/wp-content/uploads/2023/11/BMI-Calculator-Project-using-HTML-CSS-and-JavaScript.webp",
       tags: ["HTML", "CSS", "JavaScript",],
+      category: "Mini Projects",
     github: "https://github.com/Rashi-Gupta-0308/bmi-calculator",
     webapp: "https://rashi-gupta-0308.github.io/bmi-calculator/",
   },
@@ -386,6 +399,7 @@ export const projects = [
     image:
       "https://media.geeksforgeeks.org/wp-content/uploads/20230602152909/backgroundchangerGIF.gif",
       tags: ["HTML", "CSS", "JavaScript",],
+      category: "Mini Projects",
     github: "https://github.com/Rashi-Gupta-0308/bg-color-switcher",
     webapp: "https://rashi-gupta-0308.github.io/bg-color-switcher/",
   },
@@ -397,6 +411,7 @@ export const projects = [
     image:
       "https://media.geeksforgeeks.org/wp-content/uploads/20230327131629/ezgif-4-23d86a1ba7.gif",
       tags: ["HTML", "CSS", "React Js",],
+      category: "Mini Projects",
     github: "hhttps://github.com/Rashi-Gupta-0308/counter-react-app",
     webapp: "https://counter-react-app-self.vercel.app/",
   },
