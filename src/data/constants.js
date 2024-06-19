@@ -282,6 +282,18 @@ export const projects = [
     webapp: "https://react-todo-list-six-lilac.vercel.app/",
   },
   {
+    id: 16,
+    title: "Sri Mandir Website Clone",
+    description:
+      "This is the clone of Sri Mandir Website designed by figma. Used Wireframes",
+    image:
+      "https://www.srimandir.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fimg_hero_artwork_en.ecfc0911.webp&w=1920&q=75",
+    tags: ["Figma", "Wireframing",],
+    category: "UI/UX Design",
+    github: "https://www.figma.com/design/VuDmHzCmIjW92BfvYtuvit/Sri-Mandir-Project?node-id=0-1&t=7A6Skmxy1GLu9OwX-1",
+    webapp: "https://www.figma.com/proto/VuDmHzCmIjW92BfvYtuvit/Sri-Mandir-Project?node-id=6-203&t=7A6Skmxy1GLu9OwX-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=6%3A203&hide-ui=1",
+  },
+  {
     id: 6,
     title: "Coffee Shop",
     description:
