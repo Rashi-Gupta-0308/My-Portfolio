@@ -10,7 +10,9 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Rashi-Gupta-0308",
   resume:
-    "https://drive.google.com/file/d/172p-gObmWPpmkz8-vm4FwXF3fn6-QjGo/view?usp=sharing",
+    "https://drive.google.com/file/d/1fX_Rtgek9YF9XnF6eK06lf545zMvmbsZ/view?usp=sharing",
+    coding:
+    "https://codolio.com/profile/Rashi%20Gupta",
   linkedin: "https://www.linkedin.com/in/rashi-gupta-profile/",
   twitter: "https://twitter.com/rashi_gupta_18",
   insta: "https://www.instagram.com/_rashiiii17/",
