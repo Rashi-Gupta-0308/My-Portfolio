@@ -12,7 +12,7 @@ export const Bio = {
   resume:
     "https://drive.google.com/file/d/1fX_Rtgek9YF9XnF6eK06lf545zMvmbsZ/view?usp=sharing",
     coding:
-    "https://codolio.com/profile/Rashi%20Gupta",
+    "https://rashiguptacodingprofiledashboard.vercel.app/",
   linkedin: "https://www.linkedin.com/in/rashi-gupta-profile/",
   twitter: "https://twitter.com/rashi_gupta_18",
   insta: "https://www.instagram.com/_rashiiii17/",
