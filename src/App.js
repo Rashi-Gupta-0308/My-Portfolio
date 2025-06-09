@@ -29,17 +29,46 @@ const Wrapper = styled.div`
 function App() {
   const [darkMode, setDarkMode] = useState(true);
   const [openModal, setOpenModal] = useState({ state: false, project: null });
-  console.log(openModal)
+
+  useEffect(() => {
+    const disableRightClick = (e) => e.preventDefault();
+
+    const disableKeys = (e) => {
+      if (
+        e.keyCode === 123 || // F12
+        (e.ctrlKey && e.shiftKey && (e.key === 'I' || e.key === 'J')) || // Ctrl+Shift+I/J
+        (e.ctrlKey && e.key === 'U') // Ctrl+U
+      ) {
+        e.preventDefault();
+      }
+    };
+
+    const preventSaveOrViewSource = (e) => {
+      if ((e.ctrlKey || e.metaKey) && (e.key === 's' || e.key === 'u')) {
+        e.preventDefault();
+      }
+    };
+
+    document.addEventListener("contextmenu", disableRightClick);
+    document.addEventListener("keydown", disableKeys);
+    document.addEventListener("keydown", preventSaveOrViewSource);
+
+    return () => {
+      document.removeEventListener("contextmenu", disableRightClick);
+      document.removeEventListener("keydown", disableKeys);
+      document.removeEventListener("keydown", preventSaveOrViewSource);
+    };
+  }, []);
+
   return (
     <ThemeProvider theme={darkMode ? darkTheme : lightTheme}>
-      <Router >
+      <Router>
         <Navbar />
         <Body>
           <HeroSection />
           <Wrapper>
             <Skills />
             <br />
-            {/* <Experience /> */}
           </Wrapper>
           <Projects openModal={openModal} setOpenModal={setOpenModal} />
           <Wrapper>
@@ -47,13 +76,14 @@ function App() {
             <Contact />
           </Wrapper>
           <Footer />
-          {openModal.state &&
+          {openModal.state && (
             <ProjectDetails openModal={openModal} setOpenModal={setOpenModal} />
-          }
+          )}
         </Body>
       </Router>
     </ThemeProvider>
   );
 }
+
 
 export default App;

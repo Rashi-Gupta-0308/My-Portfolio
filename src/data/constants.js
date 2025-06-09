@@ -3,7 +3,8 @@ export const Bio = {
   roles: [
     "Frontend Web Developer",
     "Competitive Programmer",
-    "UI Designer",
+    "DSA Enthusiast",
+    "UI/UX Designer",
     "Web Designer",
   ],
   description:
@@ -16,7 +17,7 @@ export const Bio = {
   linkedin: "https://www.linkedin.com/in/rashi-gupta-profile/",
   twitter: "https://twitter.com/rashi_gupta_18",
   insta: "https://www.instagram.com/_rashiiii17/",
-  facebook: "https://www.facebook.com/rashi gupta/",
+  facebook: "https://www.facebook.com/profile.php?id=100085253146881",
 };
 
 export const skills = [
