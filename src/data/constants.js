@@ -175,23 +175,6 @@ export const education = [
 ];
 
 export const projects = [
-  
-  {
-    id: 2,
-    title: "TravelApp",
-    description:
-      "TravelApp is a Travelling Website. It is a mobile responsive website with the power of React.js and the finesse of Tailwind CSS. The sleek frontend design ensures a seamless user experience, and the vibrant interface invites you to explore destinations like never before.",
-    image:
-      "https://cdn.dribbble.com/users/12392577/screenshots/19949961/media/73e717b95791c7568c95829af111ff59.png?resize=400x300&vertical=center",
-    tags: [
-      "HTML",
-      "React Js",
-      "Tailwind CSS",
-    ],
-    category: "Frontend projects",
-    github: "https://github.com/Rashi-Gupta-0308/Travel-App",
-    webapp: "https://travel-app-dusky-chi.vercel.app/",
-  },
   {
     id: 3,
     title: "RashiBite",
@@ -207,6 +190,38 @@ export const projects = [
       category: "Frontend projects",
     github: "https://github.com/Rashi-Gupta-0308/rashi-bite-restaurant",
     webapp: "https://rashi-bite-restaurant.vercel.app/",
+  },
+  {
+    id: 19,
+    title: "Quiz App",
+    description:
+      "A dynamic Quiz App built using React, HTML, and CSS to test users' knowledge with interactive questions and instant feedback. It features smooth navigation, user-friendly UI, and displays the final score at the end of the quiz.",
+    image:
+      "https://www.kingofjavascript.com/uploads/posts/thumbnails/build_quiz_app_html_css_javascript_1280x720.jpg",
+      tags: [
+        "HTML",
+        "CSS",
+        "React Js",
+      ], 
+      category: "Frontend projects",
+    github: "https://github.com/Rashi-Gupta-0308/rashi-quiz/tree/main",
+    webapp: "https://rashi-quiz.vercel.app/",
+  },
+  {
+    id: 2,
+    title: "TravelApp",
+    description:
+      "TravelApp is a Travelling Website. It is a mobile responsive website with the power of React.js and the finesse of Tailwind CSS. The sleek frontend design ensures a seamless user experience, and the vibrant interface invites you to explore destinations like never before.",
+    image:
+      "https://cdn.dribbble.com/users/12392577/screenshots/19949961/media/73e717b95791c7568c95829af111ff59.png?resize=400x300&vertical=center",
+    tags: [
+      "HTML",
+      "React Js",
+      "Tailwind CSS",
+    ],
+    category: "Frontend projects",
+    github: "https://github.com/Rashi-Gupta-0308/Travel-App",
+    webapp: "https://travel-app-dusky-chi.vercel.app/",
   },
   {
     id: 4,
@@ -385,30 +400,6 @@ export const projects = [
       category: "Mini Projects",
     github: "https://github.com/Rashi-Gupta-0308/bmi-calculator",
     webapp: "https://rashi-gupta-0308.github.io/bmi-calculator/",
-  },
-  {
-    id: 14,
-    title: "Background Color Switcher",
-    description:
-      "Background Color Switcher Project changes color of background. While it may seem small, its significance lies in the practice it offered.",
-    image:
-      "https://media.geeksforgeeks.org/wp-content/uploads/20230602152909/backgroundchangerGIF.gif",
-      tags: ["HTML", "CSS", "JavaScript",],
-      category: "Mini Projects",
-    github: "https://github.com/Rashi-Gupta-0308/bg-color-switcher",
-    webapp: "https://rashi-gupta-0308.github.io/bg-color-switcher/",
-  },
-  {
-    id: 15,
-    title: "Counter React App",
-    description:
-      "Counter React App Project increments and decrements the value. This project guarantees that tha value shouls not go below 0.",
-    image:
-      "https://media.geeksforgeeks.org/wp-content/uploads/20230327131629/ezgif-4-23d86a1ba7.gif",
-      tags: ["HTML", "CSS", "React Js",],
-      category: "Mini Projects",
-    github: "hhttps://github.com/Rashi-Gupta-0308/counter-react-app",
-    webapp: "https://counter-react-app-self.vercel.app/",
   },
 ];
 
