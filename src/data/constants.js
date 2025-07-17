@@ -153,7 +153,7 @@ export const skills = [
 export const experiences = [
   {
     img: "https://media.licdn.com/dms/image/v2/D560BAQFa2-R2D7q6Og/company-logo_200_200/company-logo_200_200/0/1683269583286?e=2147483647&v=beta&t=ko06cHKktQEsn-5OF7LqCEfYot_j73RrpW7vj7Q79tY",
-    role: "UI/UX Designer",
+    role: "UI/UX Designer Intern",
     company: "Arcadon Games",
     date: "July 2025 - Present",
     desc: "Designing engaging and user-centric interfaces for mobile games, creating wireframes, prototypes, and UI assets using Figma. Collaborating with developers to ensure smooth integration and consistent visual experience.",
