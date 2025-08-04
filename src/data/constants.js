@@ -159,6 +159,15 @@ export const experiences = [
     desc: "Designing engaging and user-centric interfaces for mobile games, creating wireframes, prototypes, and UI assets using Figma. Collaborating with developers to ensure smooth integration and consistent visual experience.",
     skills: ["Figma", "Wireframing", "Prototyping", "Game Design"],
     doc: ""
+  },
+  {
+    img: "https://media.licdn.com/dms/image/v2/D4D0BAQFvgp6gdcQq-Q/company-logo_200_200/B4DZX3YsraHwAI-/0/1743612202500/mukund_marketing_logo?e=2147483647&v=beta&t=OIqktjZ32IHIe1QRluDxoAWjIDwrwx-Rtl5zk4aaOKY",
+    role: "Creative Designer Intern",
+    company: "Mukund Marketing",
+    date: "July 2025 - Aug 2025",
+    desc: "Designed visually appealing Instagram marketing creatives tailored to brand identity. Focused on consistent layout, typography, and visual balance across all designs.",
+    skills: ["Canva"],
+    doc: ""
   }
 ];
 
