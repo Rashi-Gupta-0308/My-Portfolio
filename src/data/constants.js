@@ -5,7 +5,7 @@ export const Bio = {
     "Frontend Web Developer",
     "Competitive Programmer",
     "DSA Enthusiast",
-    "Web Designer",
+    "Web & App Designer",
     "Game Designer",
   ],
   description:
@@ -162,7 +162,7 @@ export const experiences = [
     doc: ""
   },
   {
-    img: "https://media.licdn.com/dms/image/v2/D560BAQFa2-R2D7q6Og/company-logo_200_200/company-logo_200_200/0/1683269583286?e=2147483647&v=beta&t=ko06cHKktQEsn-5OF7LqCEfYot_j73RrpW7vj7Q79tY",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKFV9uIzkG06KIM4COo1FWwa3Vx2LqIWc97Q&s",
     role: "UI/UX Designer Intern",
     company: "Arcadon Games",
     date: "July 2025 - Present",
@@ -171,7 +171,7 @@ export const experiences = [
     doc: ""
   },
   {
-    img: "https://media.licdn.com/dms/image/v2/D4D0BAQFvgp6gdcQq-Q/company-logo_200_200/B4DZX3YsraHwAI-/0/1743612202500/mukund_marketing_logo?e=2147483647&v=beta&t=OIqktjZ32IHIe1QRluDxoAWjIDwrwx-Rtl5zk4aaOKY",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStsRxvoyAh9RdPbqr3yUBhPGIvdyNrugXf-A&s",
     role: "Creative Designer Intern",
     company: "Mukund Marketing",
     date: "July 2025 - Aug 2025",
