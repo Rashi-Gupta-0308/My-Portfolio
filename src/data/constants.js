@@ -153,6 +153,15 @@ export const skills = [
 
 export const experiences = [
   {
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0h-fePxkFyr90etbcCHAlC62V7Ky6FJOYtg&s",
+    role: "UI/UX Developer Intern",
+    company: "Facultyzone Talent Acquisition",
+    date: "Nov 2025 - Present",
+    desc: "Designing student-centric interfaces for an educational app for JEE and Board exam preparation, creating wireframes, prototypes, and UI/UX assets in Figma, and collaborating with developers for a smooth learning experience.",
+    skills: ["Figma", "Wireframing", "Prototyping"],
+    doc: ""
+  },
+  {
     img: "https://media.licdn.com/dms/image/v2/D560BAQFa2-R2D7q6Og/company-logo_200_200/company-logo_200_200/0/1683269583286?e=2147483647&v=beta&t=ko06cHKktQEsn-5OF7LqCEfYot_j73RrpW7vj7Q79tY",
     role: "UI/UX Designer Intern",
     company: "Arcadon Games",
