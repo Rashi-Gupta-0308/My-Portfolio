@@ -2,10 +2,10 @@ export const Bio = {
   name: "Rashi Gupta",
   roles: [
     "UI/UX Designer",
-    "Frontend Web Developer",
+    "Web & App Designer",
+    "Frontend Developer",
     "Competitive Programmer",
     "DSA Enthusiast",
-    "Web & App Designer",
     "Game Designer",
   ],
   description:
@@ -153,28 +153,28 @@ export const skills = [
 
 export const experiences = [
   {
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0h-fePxkFyr90etbcCHAlC62V7Ky6FJOYtg&s",
-    role: "UI/UX Developer Intern",
-    company: "Facultyzone Talent Acquisition",
-    date: "Nov 2025 - Present",
-    desc: "Designing student-centric interfaces for an educational app for JEE and Board exam preparation, creating wireframes, prototypes, and UI/UX assets in Figma, and collaborating with developers for a smooth learning experience.",
-    skills: ["Figma", "Wireframing", "Prototyping"],
-    doc: ""
-  },
-  {
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKFV9uIzkG06KIM4COo1FWwa3Vx2LqIWc97Q&s",
     role: "UI/UX Designer Intern",
     company: "Arcadon Games",
-    date: "July 2025 - Present",
+    date: "Jul 2025 - Present",
     desc: "Designing engaging and user-centric interfaces for mobile games, creating wireframes, prototypes, and UI assets using Figma. Collaborating with developers to ensure smooth integration and consistent visual experience.",
     skills: ["Figma", "Wireframing", "Prototyping", "Game Design"],
+    doc: ""
+  },
+  {
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0h-fePxkFyr90etbcCHAlC62V7Ky6FJOYtg&s",
+    role: "UI/UX Developer Intern",
+    company: "Facultyzone Talent Acquisition",
+    date: "Nov 2025 - Jan 2026",
+    desc: "Designed user-centric interfaces for an educational mobile app for JEE and Board exam preparation and job portal website for job seekers, created wireframes, prototypes, and UI/UX assets in Figma, and collaborated with developers.",
+    skills: ["Figma", "Wireframing", "Prototyping"],
     doc: ""
   },
   {
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStsRxvoyAh9RdPbqr3yUBhPGIvdyNrugXf-A&s",
     role: "Creative Designer Intern",
     company: "Mukund Marketing",
-    date: "July 2025 - Aug 2025",
+    date: "Jul 2025 - Aug 2025",
     desc: "Designed visually appealing Instagram marketing creatives tailored to brand identity. Focused on consistent layout, typography, and visual balance across all designs.",
     skills: ["Canva"],
     doc: ""
@@ -187,7 +187,7 @@ export const education = [
     img: "https://upload.wikimedia.org/wikipedia/en/d/d6/Madhav_Institute_of_Technology_and_Science_logo.png",
     school: "Madhav Institute of Technology & Science, Gwalior",
     date: "Nov 2022 - Jun 2026",
-    grade: "8.80 CGPA (till 6th sem)",
+    grade: "8.8 CGPA",
     desc: "I am currently pursuing a Bachelor's degree in Internet of Things at Madhav Institute of Technology & Science, Gwalior. I have studied Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
     degree: "Bachelor of Technology - B.Tech, Internet of Things",
   },
@@ -322,7 +322,7 @@ export const projects = [
     description:
       "This project is the food menu website. It is designed by figma.",
     image:
-      "https://justfigma.com/wp-content/uploads/2022/07/design-food-menu-with-figma.png.webp",
+      "https://cdn.dribbble.com/users/2110970/screenshots/14845464/food_menu_website_design_dribbble_4x.jpg",
     tags: ["Figma",],
     category: "UI/UX Design",
     github: "https://www.figma.com/file/L5jmR1ZSaYNQSPirxV43zf/Restaurant-Website?type=design&node-id=0%3A1&mode=design&t=YLJ3yXofyvrqm4qF-1",
